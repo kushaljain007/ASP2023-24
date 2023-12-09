@@ -1,8 +1,6 @@
 # ASP2023-24
-
-Program       : Undergraduate Thesis
-Thesis Title  : Active Galactic Nuclei (AGN) Feedback and Its Role in Heating the Intergalactic medium (IGM)
-Advisor       : Professor Somak Raychaudhury
+###### Active Galactic Nuclei Feedback: Heating Mechanism of the Intergalactic Medium  |  Undergraduate Thesis  |  Professor Somak Raychaudhury 
+#
 
 The repo contains all the relevant information regarding the project, including:
 
