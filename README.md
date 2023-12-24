@@ -2,7 +2,7 @@
 ###### Active Galactic Nuclei Feedback: Heating Mechanism of the Intergalactic Medium  |  Undergraduate Thesis  |  Professor Somak Raychaudhury 
 #
 
-[KushalJain_CapstoneThesis_InterimReport.pdf]()
+[KushalJain_InterimReport_CapstoneThesis_Dec2023.pdf](https://github.com/kushaljain007/ASP2023-24/blob/main/Reports/InterimReport_Dec2023/KushalJain_InterimReport_CapstoneThesis_Dec2023.pdf)
 
 The repo contains all the relevant information regarding the project, including:
 
